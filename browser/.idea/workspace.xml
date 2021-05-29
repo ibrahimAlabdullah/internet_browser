@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c916a7-73b1-48b9-bddc-78fea59f32e7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SecondGuiController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/guiController/SecondGuiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="184" selection-start-line="184" selection-end-line="184" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpConnection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Connction/HttpConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Save.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/save/Save.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/css/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6613">
+              <caret line="389" column="1" selection-start-line="389" selection-start-column="1" selection-end-line="389" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstGuiController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/guiController/FirstGuiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MakeHtmlTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/makeHtmlTree/MakeHtmlTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="32" column="57" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="57" />
+              <folding>
+                <element signature="method#setHtmlStyleElements#0;class#MakeHtmlTree#0" />
+                <element signature="method#setClassProperty#0;class#MakeHtmlTree#0" />
+                <element signature="method#setStyleProperties#0;class#MakeHtmlTree#0" />
+                <element signature="method#parseClassesWithinStyleTag#0;class#MakeHtmlTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H1_Tag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tags/H1_Tag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Head_Tag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tags/Head_Tag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="31" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_Tag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tags/image_Tag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>openFile</find>
+      <find>black</find>
+      <find>save</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/application/Main.java" />
+        <option value="$PROJECT_DIR$/src/html/structure/HtmlElement.java" />
+        <option value="$PROJECT_DIR$/src/browser/WebBrowserController.java" />
+        <option value="$PROJECT_DIR$/src/html/element/H1_Element.java" />
+        <option value="$PROJECT_DIR$/src/html/interfaces/IHtmlElement.java" />
+        <option value="$PROJECT_DIR$/src/html/util/HtmlElementService.java" />
+        <option value="$PROJECT_DIR$/src/structure/IHtmlElement.java" />
+        <option value="$PROJECT_DIR$/src/util/HtmlElementFactory.java" />
+        <option value="$PROJECT_DIR$/src/util/HtmlElementService.java" />
+        <option value="$PROJECT_DIR$/src/makeHtmlTree/HtmlElementService.java" />
+        <option value="$PROJECT_DIR$/src/nodes/Attribute.java" />
+        <option value="$PROJECT_DIR$/src/tags/A_Element.java" />
+        <option value="$PROJECT_DIR$/src/makeHtmlTree/HtmlElementFactory.java" />
+        <option value="$PROJECT_DIR$/src/browser/WebBrowserTabController.java" />
+        <option value="$PROJECT_DIR$/src/browser/FirstGuiController.java" />
+        <option value="$PROJECT_DIR$/src/htmlStructure/HtmlInterface.java" />
+        <option value="$PROJECT_DIR$/src/htmlStructure/HtmlElement.java" />
+        <option value="$PROJECT_DIR$/src/htmlStructure/HtmlNodeInterface.java" />
+        <option value="$PROJECT_DIR$/src/Connction/ChangeNotifyingArrayList.java" />
+        <option value="$PROJECT_DIR$/src/nodes/FormElement.java" />
+        <option value="$PROJECT_DIR$/src/nodes/Document.java" />
+        <option value="$PROJECT_DIR$/src/nodes/Element.java" />
+        <option value="$PROJECT_DIR$/src/tags/image_Tag1.java" />
+        <option value="$PROJECT_DIR$/src/tags/Input_tag.java" />
+        <option value="$PROJECT_DIR$/src/tags/A_Tag.java" />
+        <option value="$PROJECT_DIR$/src/Connction/HttpConnection.java" />
+        <option value="$PROJECT_DIR$/src/Connction/ConstrainableInputStream.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/SecondGui.fxml" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/tags/Head_Tag.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/SaveGui.fxml" />
+        <option value="$PROJECT_DIR$/src/save/SaveGuiController.java" />
+        <option value="$PROJECT_DIR$/src/save/Save.java" />
+        <option value="$PROJECT_DIR$/src/tags/Input_Tag.java" />
+        <option value="$PROJECT_DIR$/src/tags/H1_Tag.java" />
+        <option value="$PROJECT_DIR$/src/htmlStructure/HtmlNode.java" />
+        <option value="$PROJECT_DIR$/src/tags/image_Tag.java" />
+        <option value="$PROJECT_DIR$/src/tags/Select_Tag.java" />
+        <option value="$PROJECT_DIR$/src/makeHtmlTree/MakeNodeTags.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/FirstGui.fxml" />
+        <option value="$PROJECT_DIR$/src/guiController/FirstGuiController.java" />
+        <option value="$PROJECT_DIR$/src/makeHtmlTree/MakeHtmlTree.java" />
+        <option value="$PROJECT_DIR$/src/guiController/SecondGuiController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="guiController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="makeHtmlTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="fxml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ibrahim\Desktop\مشروع 1 اخر نسخة\Project 1\src\resources\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ibrahim\Desktop\مشروع 1 اخر نسخة\Project 1\src" />
+      <recent name="C:\Users\Ibrahim\Desktop\مشروع 1 اخر نسخة\Project 1\src\resources" />
+      <recent name="C:\Users\Ibrahim\Desktop\مشروع 1 اخر نسخة\Project 1\src\tags" />
+      <recent name="D:\الهندسة المعلوماتية\مشروع 1\مشروع1\Project 1\src\nodes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Project 1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.application.Main" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c916a7-73b1-48b9-bddc-78fea59f32e7" name="Default" comment="" />
+      <created>1557795122995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557795122995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32755905" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3023622" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22620791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.09291339" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tags/image_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/image_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/makeHtmlTree/MakeHtmlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="method#setHtmlStyleElements#0;class#MakeHtmlTree#0" />
+            <element signature="method#setClassProperty#0;class#MakeHtmlTree#0" />
+            <element signature="method#setStyleProperties#0;class#MakeHtmlTree#0" />
+            <element signature="method#parseClassesWithinStyleTag#0;class#MakeHtmlTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlStructure/HtmlNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="148" column="48" lean-forward="true" selection-start-line="148" selection-start-column="48" selection-end-line="148" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlStructure/HtmlNodeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Head_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/H3_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connction/ChangeNotifyingArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/Connction/DataUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/Connction/Elements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11679">
+          <caret line="744" selection-start-line="744" selection-end-line="744" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/javafx-src.zip!/com/sun/glass/ui/InvokeLaterDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/javafx-src.zip!/com/sun/javafx/application/PlatformImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4403">
+          <caret line="325" selection-start-line="325" selection-end-line="325" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13804">
+          <caret line="862" selection-start-line="862" selection-end-line="862" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connction/Connection.java" />
+    <entry file="file://$PROJECT_DIR$/src/nodes/FormElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parserr/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodes/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodes/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11356">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodes/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="437" column="45" lean-forward="true" selection-start-line="437" selection-start-column="45" selection-end-line="437" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/javafx-src.zip!/com/sun/glass/ui/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15011">
+          <caret line="922" selection-start-line="922" selection-end-line="922" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodes/Attribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nodes/Attributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Div_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Button_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Body_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/A_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/H6_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/H4_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/H5_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7174">
+          <caret line="447" selection-start-line="447" selection-end-line="447" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connction/ConstrainableInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="70" lean-forward="true" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connction/Evaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="776" lean-forward="true" selection-start-line="776" selection-end-line="776" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/save.html" />
+    <entry file="file://$PROJECT_DIR$/src/htmlStructure/HtmlNodeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlStructure/HtmlNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="148" column="48" selection-start-line="148" selection-start-column="48" selection-end-line="148" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Title_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/P_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Input_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Select_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/css/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6613">
+          <caret line="389" column="1" selection-start-line="389" selection-start-column="1" selection-end-line="389" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/save/Save.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/image_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/Head_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connction/HttpConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guiController/FirstGuiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guiController/SecondGuiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tags/H1_Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/makeHtmlTree/MakeHtmlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="32" column="57" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <element signature="method#setHtmlStyleElements#0;class#MakeHtmlTree#0" />
+            <element signature="method#setClassProperty#0;class#MakeHtmlTree#0" />
+            <element signature="method#setStyleProperties#0;class#MakeHtmlTree#0" />
+            <element signature="method#parseClassesWithinStyleTag#0;class#MakeHtmlTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
